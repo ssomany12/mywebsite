@@ -1,6 +1,6 @@
 baseURL: https://ssomany12.netlify.app/
 languageCode: en-us
-title: Forty
+title: Personal Website for Shashvat Somany
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,15 +8,15 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Shashvat
+      A MILDLY RESPONSIVE SITE TEMPLATE DESIGNED BY SHASHVAT SOMANY
+      AND RELEASED FOR DATA SCIENCE FOR BUSINESS
+    title: Hi, my name is Shashvat Somany, and this is my personal website
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London
+        country: United Kingdom
+        street: Park Road
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+44) 7577-586-389 
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Shashvat Somany
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -56,7 +56,7 @@ params:
         url: https://www.github.com/ssomany12
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://in.linkedin.com/in/shashvat-somany
   image: ''
   name: Your name
   navigation:
