@@ -42,15 +42,15 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
- #     - icon: fa-twitter
+#     - icon: fa-twitter
 #        label: Twitter
- #       url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
+#       url: https://www.twitter.com
+#      - icon: fa-facebook
+#        label: Facebook
+#        url: https://www.facebook.com
+#      - icon: fa-instagram
+#        label: Instagram
+#        url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
         url: https://www.github.com/ssomany12
@@ -82,9 +82,9 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: my subtitle
+        title: Shashavt Somany Bio
+        url: blogs/shashavt
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
@@ -116,3 +116,9 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+    
+    
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true    
