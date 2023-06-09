@@ -10,6 +10,6 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image: spices.jpg
 keywords: ""
-slug: workspace
+slug: bloggg
 title: Intro to Statistical Modelling
 ---
