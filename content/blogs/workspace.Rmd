@@ -47,7 +47,6 @@ There is a nice article and analysis you can find here https://fivethirtyeight.c
 We have a sample of 1394 movies and we want to fit a model to predict whether a film passes the test or not.
 
 ```{r read_data}
-
 bechdel <- read_csv(here::here("data", "bechdel.csv")) %>% 
   mutate(test = factor(test)) 
 glimpse(bechdel)
