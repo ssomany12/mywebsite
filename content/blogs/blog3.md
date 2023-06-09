@@ -11,5 +11,5 @@ draft: false
 image: pic08.jpg
 keywords: ""
 slug: workspace
-title: Portfolio
+title: Intro to Statistical Modelling
 ---
