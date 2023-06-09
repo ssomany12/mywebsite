@@ -122,6 +122,8 @@ markup:
   goldmark: 
     renderer: 
       unsafe: true    
-      
+    
+#Adding pictures 
+knitr::include_graphics("/img/0946ED0C-B9AE-4F87-B141-DD75AE124AC2_1_201_a.jpeg",error=FALSE)
 
   
