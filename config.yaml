@@ -85,7 +85,7 @@ params:
         subtitle: A brief introduction to my life
         title: My Bio
         url: blogs/shashvat
-      - image: pic02.jpg
+      - image: lbs.jpg
         subtitle: A worksample 
         title: Portfolio
         url: blogs/workspace
