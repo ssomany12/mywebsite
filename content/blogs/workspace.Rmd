@@ -270,7 +270,7 @@ Run the code below. What does it return?
 ```{r}
 set.seed(123)
 bechdel_folds <- vfold_cv(data = bechdel_train, 
-                          v = 5, 
+                          v = 3, 
                           strata = test)
 bechdel_folds
 
@@ -349,14 +349,6 @@ tree_preds %>%
 1. Describe **prep**rocessing [step-by-step]
 
 ## Collapse Some Categorical Levels
-
-Do we have any `genre` with few observations?  Assign genres that have less than 3% to a new category 'Other'
-
-```{r}
-
-
-```
-
 
 
 ```{r}
